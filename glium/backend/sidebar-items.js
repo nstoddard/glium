@@ -1,0 +1,1 @@
+initSidebarItems({"mod":[["glutin_backend",""]],"trait":[["Backend","Trait for types that can be used as a backend for a glium context."],["Facade","Trait for types that provide a safe access for glium functions."]],"struct":[["Context",""]]});
